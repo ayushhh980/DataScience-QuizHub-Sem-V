@@ -1,0 +1,2606 @@
+{
+  "title": "Data Science — 172 MCQ Final Answer Key",
+  "source_file": "Data science MCQs.pdf",
+  "total_questions": 172,
+  "questions": [
+    {
+      "id": 1,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "What is Data Science",
+      "section_question_number": 1,
+      "question": "What is the primary goal of data science?",
+      "options": {
+        "A": "To collect data",
+        "B": "To analyze data",
+        "C": "To extract insights from data",
+        "D": "To visualize data"
+      },
+      "correct_option": "C",
+      "correct_answer": "To extract insights from data"
+    },
+    {
+      "id": 2,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "What is Data Science",
+      "section_question_number": 2,
+      "question": "Which of the following is NOT a step in the data science process?",
+      "options": {
+        "A": "Data Cleaning",
+        "B": "Model Deployment",
+        "C": "Data Ignoring",
+        "D": "Data Visualization"
+      },
+      "correct_option": "C",
+      "correct_answer": "Data Ignoring"
+    },
+    {
+      "id": 3,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "What is Data Science",
+      "section_question_number": 3,
+      "question": "Which of the following techniques is commonly used in machine learning?",
+      "options": {
+        "A": "Linear Regression",
+        "B": "Statistical Testing",
+        "C": "Descriptive Statistics",
+        "D": "Data Collection"
+      },
+      "correct_option": "A",
+      "correct_answer": "Linear Regression"
+    },
+    {
+      "id": 4,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "What is Data Science",
+      "section_question_number": 4,
+      "question": "What does EDA stand for?",
+      "options": {
+        "A": "Exploratory Data Analysis",
+        "B": "Enhanced Data Assessment",
+        "C": "Effective Data Application",
+        "D": "Evaluative Data Analysis"
+      },
+      "correct_option": "A",
+      "correct_answer": "Exploratory Data Analysis"
+    },
+    {
+      "id": 5,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "What is Data Science",
+      "section_question_number": 5,
+      "question": "Which programming language is most commonly associated with data science?",
+      "options": {
+        "A": "Java",
+        "B": "C++",
+        "C": "Python",
+        "D": "HTML"
+      },
+      "correct_option": "C",
+      "correct_answer": "Python"
+    },
+    {
+      "id": 6,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "What is Data Science",
+      "section_question_number": 6,
+      "question": "What is the purpose of data visualization?",
+      "options": {
+        "A": "To collect data efficiently",
+        "B": "To present data in a clear and understandable way",
+        "C": "To clean the data automatically",
+        "D": "To store data securely"
+      },
+      "correct_option": "B",
+      "correct_answer": "To present data in a clear and understandable way"
+    },
+    {
+      "id": 7,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "What is Data Science",
+      "section_question_number": 7,
+      "question": "Which of the following is a type of supervised learning?",
+      "options": {
+        "A": "Clustering",
+        "B": "Classification",
+        "C": "Association",
+        "D": "Dimensionality Reduction"
+      },
+      "correct_option": "B",
+      "correct_answer": "Classification"
+    },
+    {
+      "id": 8,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Need for Data Science",
+      "section_question_number": 1,
+      "question": "What is a primary benefit of data-driven decision making?",
+      "options": {
+        "A": "Reducing the number of employees",
+        "B": "Making decisions based on empirical evidence",
+        "C": "Increasing the complexity of decisions",
+        "D": "Relying on historical trends alone"
+      },
+      "correct_option": "B",
+      "correct_answer": "Making decisions based on empirical evidence"
+    },
+    {
+      "id": 9,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Need for Data Science",
+      "section_question_number": 2,
+      "question": "How does data science help in understanding customer behaviour?",
+      "options": {
+        "A": "By ignoring data",
+        "B": "By analysing customer data for insights",
+        "C": "By increasing product prices",
+        "D": "By limiting customer interactions"
+      },
+      "correct_option": "B",
+      "correct_answer": "By analysing customer data for insights"
+    },
+    {
+      "id": 10,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Need for Data Science",
+      "section_question_number": 3,
+      "question": "What is predictive analytics primarily used for?",
+      "options": {
+        "A": "To analyse past data only",
+        "B": "To forecast future trends and outcomes",
+        "C": "To gather data from social media",
+        "D": "To clean data sets"
+      },
+      "correct_option": "B",
+      "correct_answer": "To forecast future trends and outcomes"
+    },
+    {
+      "id": 11,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Need for Data Science",
+      "section_question_number": 4,
+      "question": "Which of the following is a way data science can improve operational efficiency?",
+      "options": {
+        "A": "By complicating processes",
+        "B": "By identifying inefficiencies and suggesting improvements",
+        "C": "By eliminating all data analysis",
+        "D": "By increasing the number of reports generated"
+      },
+      "correct_option": "B",
+      "correct_answer": "By identifying inefficiencies and suggesting improvements"
+    },
+    {
+      "id": 12,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Need for Data Science",
+      "section_question_number": 5,
+      "question": "What does gaining a competitive advantage through data science involve?",
+      "options": {
+        "A": "Implementing outdated practices",
+        "B": "Using insights that competitors do not have",
+        "C": "Reducing the data science team",
+        "D": "Ignoring customer feedback"
+      },
+      "correct_option": "B",
+      "correct_answer": "Using insights that competitors do not have"
+    },
+    {
+      "id": 13,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Need for Data Science",
+      "section_question_number": 6,
+      "question": "What role does data science play in innovation?",
+      "options": {
+        "A": "It restricts creativity by focusing on data",
+        "B": "It enables exploration of new business models based on data insights",
+        "C": "It only supports existing business models",
+        "D": "It eliminates the need for new products"
+      },
+      "correct_option": "B",
+      "correct_answer": "It enables exploration of new business models based on data insights"
+    },
+    {
+      "id": 14,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Need for Data Science",
+      "section_question_number": 7,
+      "question": "Which of the following industries has benefited from data science?",
+      "options": {
+        "A": "Healthcare",
+        "B": "Finance",
+        "C": "Retail",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 15,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Business Intelligence (BI) vs Data Science",
+      "section_question_number": 1,
+      "question": "What is the primary goal of Business Intelligence?",
+      "options": {
+        "A": "Predicting future trends",
+        "B": "Monitoring and reporting historical data",
+        "C": "Developing machine learning algorithms",
+        "D": "Building predictive models"
+      },
+      "correct_option": "B",
+      "correct_answer": "Monitoring and reporting historical data"
+    },
+    {
+      "id": 16,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Business Intelligence (BI) vs Data Science",
+      "section_question_number": 2,
+      "question": "Which tool is commonly used in Data Science?",
+      "options": {
+        "A": "Tableau",
+        "B": "Power BI",
+        "C": "Python",
+        "D": "SAP"
+      },
+      "correct_option": "C",
+      "correct_answer": "Python"
+    },
+    {
+      "id": 17,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Business Intelligence (BI) vs Data Science",
+      "section_question_number": 3,
+      "question": "Business Intelligence focuses primarily on:",
+      "options": {
+        "A": "Unstructured data analysis",
+        "B": "Prescriptive analytics",
+        "C": "Data visualization and dashboards",
+        "D": "Deep learning algorithms"
+      },
+      "correct_option": "C",
+      "correct_answer": "Data visualization and dashboards"
+    },
+    {
+      "id": 18,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Business Intelligence (BI) vs Data Science",
+      "section_question_number": 4,
+      "question": "What is the key difference between BI and Data Science?",
+      "options": {
+        "A": "BI is for the future, and Data Science focuses on the past",
+        "B": "BI uses AI, while Data Science uses SQL",
+        "C": "BI provides descriptive analytics, while Data Science offers predictive insights",
+        "D": "Both are identical in purpose"
+      },
+      "correct_option": "C",
+      "correct_answer": "BI provides descriptive analytics, while Data Science offers predictive insights"
+    },
+    {
+      "id": 19,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Business Intelligence (BI) vs Data Science",
+      "section_question_number": 5,
+      "question": "Which of the following is a predictive analytics technique?",
+      "options": {
+        "A": "KPI dashboards",
+        "B": "Time-series forecasting",
+        "C": "SQL querying",
+        "D": "Data visualization"
+      },
+      "correct_option": "B",
+      "correct_answer": "Time-series forecasting"
+    },
+    {
+      "id": 20,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Components of Data Science",
+      "section_question_number": 1,
+      "question": "What is the first step in the Data Science process?",
+      "options": {
+        "A": "Data Visualization",
+        "B": "Data Collection",
+        "C": "Data Modelling",
+        "D": "Model Evaluation"
+      },
+      "correct_option": "B",
+      "correct_answer": "Data Collection"
+    },
+    {
+      "id": 21,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Components of Data Science",
+      "section_question_number": 2,
+      "question": "Which of the following is NOT a part of Data Preparation?",
+      "options": {
+        "A": "Handling missing values",
+        "B": "Normalization",
+        "C": "Model deployment",
+        "D": "Outlier detection"
+      },
+      "correct_option": "C",
+      "correct_answer": "Model deployment"
+    },
+    {
+      "id": 22,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Components of Data Science",
+      "section_question_number": 3,
+      "question": "What is the primary goal of Exploratory Data Analysis (EDA)?",
+      "options": {
+        "A": "Build predictive models",
+        "B": "Deploy machine learning models",
+        "C": "Identify patterns and trends in data",
+        "D": "Handle missing data"
+      },
+      "correct_option": "C",
+      "correct_answer": "Identify patterns and trends in data"
+    },
+    {
+      "id": 23,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Components of Data Science",
+      "section_question_number": 4,
+      "question": "Which of these tools is widely used for Data Modelling in Data Science?",
+      "options": {
+        "A": "Power BI",
+        "B": "Scikit-learn",
+        "C": "Tableau",
+        "D": "SQL"
+      },
+      "correct_option": "B",
+      "correct_answer": "Scikit-learn"
+    },
+    {
+      "id": 24,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Components of Data Science",
+      "section_question_number": 5,
+      "question": "Which of the following is a metric used to evaluate a classification model?",
+      "options": {
+        "A": "RMSE",
+        "B": "Precision",
+        "C": "Silhouette Score",
+        "D": "Variance"
+      },
+      "correct_option": "B",
+      "correct_answer": "Precision",
+      "technical_note": "Reworded to avoid implying that Precision is synonymous with the Accuracy metric; Precision is a valid classification metric."
+    },
+    {
+      "id": 25,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Components of Data Science",
+      "section_question_number": 6,
+      "question": "What is the main objective of Data Visualization?",
+      "options": {
+        "A": "Clean the data",
+        "B": "Communicate insights effectively",
+        "C": "Train machine learning models",
+        "D": "Collect raw data"
+      },
+      "correct_option": "B",
+      "correct_answer": "Communicate insights effectively"
+    },
+    {
+      "id": 26,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Data Science Life Cycle",
+      "section_question_number": 1,
+      "question": "Which is the first step in the Data Science Life Cycle?",
+      "options": {
+        "A": "Data Collection",
+        "B": "Problem Definition",
+        "C": "Model Building",
+        "D": "Data Visualization"
+      },
+      "correct_option": "B",
+      "correct_answer": "Problem Definition"
+    },
+    {
+      "id": 27,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Data Science Life Cycle",
+      "section_question_number": 2,
+      "question": "What is the main objective of Data Preparation?",
+      "options": {
+        "A": "Building machine learning models",
+        "B": "Cleaning and organizing data for analysis",
+        "C": "Testing the model's accuracy",
+        "D": "Deploying the model"
+      },
+      "correct_option": "B",
+      "correct_answer": "Cleaning and organizing data for analysis"
+    },
+    {
+      "id": 28,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Data Science Life Cycle",
+      "section_question_number": 3,
+      "question": "Which process helps identify patterns and trends in data?",
+      "options": {
+        "A": "Model Deployment",
+        "B": "Data Collection",
+        "C": "Exploratory Data Analysis (EDA)",
+        "D": "Data Cleaning"
+      },
+      "correct_option": "C",
+      "correct_answer": "Exploratory Data Analysis (EDA)"
+    },
+    {
+      "id": 29,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Data Science Life Cycle",
+      "section_question_number": 4,
+      "question": "What step involves splitting data into training and testing datasets?",
+      "options": {
+        "A": "Model Deployment",
+        "B": "Model Evaluation",
+        "C": "Model Building",
+        "D": "Data Preparation"
+      },
+      "correct_option": "D",
+      "correct_answer": "Data Preparation"
+    },
+    {
+      "id": 30,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Data Science Life Cycle",
+      "section_question_number": 5,
+      "question": "Which of the following is NOT a model evaluation metric?",
+      "options": {
+        "A": "Accuracy",
+        "B": "Precision",
+        "C": "Data Cleaning",
+        "D": "Recall"
+      },
+      "correct_option": "C",
+      "correct_answer": "Data Cleaning"
+    },
+    {
+      "id": 31,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Data Science Life Cycle",
+      "section_question_number": 6,
+      "question": "After deploying a model, what is the next step?",
+      "options": {
+        "A": "Model Building",
+        "B": "Data Wrangling",
+        "C": "Monitoring and Maintenance",
+        "D": "EDA"
+      },
+      "correct_option": "C",
+      "correct_answer": "Monitoring and Maintenance"
+    },
+    {
+      "id": 32,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Data Science Life Cycle",
+      "section_question_number": 7,
+      "question": "What is the purpose of data visualization during EDA?",
+      "options": {
+        "A": "Build predictive models",
+        "B": "Clean raw data",
+        "C": "Identify patterns and insights",
+        "D": "Test model performance"
+      },
+      "correct_option": "C",
+      "correct_answer": "Identify patterns and insights"
+    },
+    {
+      "id": 33,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 1,
+      "question": "Which of the following is NOT a data storage tool?",
+      "options": {
+        "A": "MySQL",
+        "B": "PostgreSQL",
+        "C": "Hadoop",
+        "D": "Matplotlib"
+      },
+      "correct_option": "D",
+      "correct_answer": "Matplotlib"
+    },
+    {
+      "id": 34,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 2,
+      "question": "Which language is widely used for data manipulation and analysis?",
+      "options": {
+        "A": "Java",
+        "B": "Python",
+        "C": "C++",
+        "D": "PHP"
+      },
+      "correct_option": "B",
+      "correct_answer": "Python"
+    },
+    {
+      "id": 35,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 3,
+      "question": "Tableau is primarily used for:",
+      "options": {
+        "A": "Data Storage",
+        "B": "Data Visualization",
+        "C": "Machine Learning",
+        "D": "Statistical Analysis"
+      },
+      "correct_option": "B",
+      "correct_answer": "Data Visualization"
+    },
+    {
+      "id": 36,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 4,
+      "question": "Which framework is used for building machine learning models?",
+      "options": {
+        "A": "TensorFlow",
+        "B": "Power BI",
+        "C": "Tableau",
+        "D": "MongoDB"
+      },
+      "correct_option": "A",
+      "correct_answer": "TensorFlow"
+    },
+    {
+      "id": 37,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 5,
+      "question": "Which of the following is a version control tool?",
+      "options": {
+        "A": "Jupyter Notebook",
+        "B": "Git",
+        "C": "Pandas",
+        "D": "NumPy"
+      },
+      "correct_option": "B",
+      "correct_answer": "Git"
+    },
+    {
+      "id": 38,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 6,
+      "question": "For processing large-scale data in a distributed environment, which tool is best suited?",
+      "options": {
+        "A": "Apache Spark",
+        "B": "SAS",
+        "C": "Seaborn",
+        "D": "MATLAB"
+      },
+      "correct_option": "A",
+      "correct_answer": "Apache Spark"
+    },
+    {
+      "id": 39,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 7,
+      "question": "What tool is commonly used for creating dashboards and business intelligence reports?",
+      "options": {
+        "A": "Power BI",
+        "B": "TensorFlow",
+        "C": "GitHub",
+        "D": "Scikit-learn"
+      },
+      "correct_option": "A",
+      "correct_answer": "Power BI"
+    },
+    {
+      "id": 40,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 8,
+      "question": "Which Python library is used for data visualization?",
+      "options": {
+        "A": "NumPy",
+        "B": "Pandas",
+        "C": "Matplotlib",
+        "D": "TensorFlow"
+      },
+      "correct_option": "C",
+      "correct_answer": "Matplotlib"
+    },
+    {
+      "id": 41,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 9,
+      "question": "Docker is used for:",
+      "options": {
+        "A": "Data Cleaning",
+        "B": "Model Deployment",
+        "C": "Statistical Analysis",
+        "D": "Data Visualization"
+      },
+      "correct_option": "B",
+      "correct_answer": "Model Deployment"
+    },
+    {
+      "id": 42,
+      "unit": "Unit 1: Introduction to Data Science",
+      "section": "Tools for Data Science",
+      "section_question_number": 10,
+      "question": "Jupyter Notebook is mainly used for:",
+      "options": {
+        "A": "Writing code and documenting analysis",
+        "B": "Storing large datasets",
+        "C": "Version control",
+        "D": "Creating production-ready applications"
+      },
+      "correct_option": "A",
+      "correct_answer": "Writing code and documenting analysis"
+    },
+    {
+      "id": 43,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Types/Classification of Big Data",
+      "section_question_number": 1,
+      "question": "What type of Big Data is an email?",
+      "options": {
+        "A": "Structured",
+        "B": "Unstructured",
+        "C": "Semi-structured",
+        "D": "Machine-generated"
+      },
+      "correct_option": "B",
+      "correct_answer": "Unstructured"
+    },
+    {
+      "id": 44,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Types/Classification of Big Data",
+      "section_question_number": 2,
+      "question": "Which of the following is an example of structured data?",
+      "options": {
+        "A": "Social media posts",
+        "B": "Relational database records",
+        "C": "Audio files",
+        "D": "IoT sensor data"
+      },
+      "correct_option": "B",
+      "correct_answer": "Relational database records"
+    },
+    {
+      "id": 45,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Types/Classification of Big Data",
+      "section_question_number": 3,
+      "question": "What type of Big Data is generated by IoT devices?",
+      "options": {
+        "A": "Human-generated",
+        "B": "Semi-structured",
+        "C": "Machine-generated",
+        "D": "Batch data"
+      },
+      "correct_option": "C",
+      "correct_answer": "Machine-generated"
+    },
+    {
+      "id": 46,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Types/Classification of Big Data",
+      "section_question_number": 4,
+      "question": "Which classification applies to Big Data processed in real-time?",
+      "options": {
+        "A": "Batch Data",
+        "B": "Stream Data",
+        "C": "Structured Data",
+        "D": "Scientific Data"
+      },
+      "correct_option": "B",
+      "correct_answer": "Stream Data"
+    },
+    {
+      "id": 47,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Types/Classification of Big Data",
+      "section_question_number": 5,
+      "question": "XML and JSON are examples of which type of Big Data?",
+      "options": {
+        "A": "Structured",
+        "B": "Unstructured",
+        "C": "Semi-structured",
+        "D": "Machine-generated"
+      },
+      "correct_option": "C",
+      "correct_answer": "Semi-structured"
+    },
+    {
+      "id": 48,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Evolution of Big Data",
+      "section_question_number": 1,
+      "question": "Which of the following lists three commonly cited characteristics of Big Data?",
+      "options": {
+        "A": "High volume, low speed, and structured data",
+        "B": "High volume, velocity, and variety",
+        "C": "Low variety, high veracity, and value",
+        "D": "Limited size and fixed structure"
+      },
+      "correct_option": "B",
+      "correct_answer": "High volume, velocity, and variety",
+      "technical_note": "Clarified because the study material also lists five Vs (Volume, Velocity, Variety, Veracity, Value)."
+    },
+    {
+      "id": 49,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Evolution of Big Data",
+      "section_question_number": 2,
+      "question": "When did Big Data gain prominence as a field of study?",
+      "options": {
+        "A": "1960s",
+        "B": "1980s",
+        "C": "2000s",
+        "D": "2020s"
+      },
+      "correct_option": "C",
+      "correct_answer": "2000s"
+    },
+    {
+      "id": 50,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Evolution of Big Data",
+      "section_question_number": 3,
+      "question": "Which of the following technologies played a key role in the evolution of Big Data?",
+      "options": {
+        "A": "Apache Hadoop",
+        "B": "Relational databases",
+        "C": "MapReduce",
+        "D": "Both A and C"
+      },
+      "correct_option": "D",
+      "correct_answer": "Both A and C"
+    },
+    {
+      "id": 51,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Evolution of Big Data",
+      "section_question_number": 4,
+      "question": "What triggered the need for new Big Data tools in the 2000s?",
+      "options": {
+        "A": "Increase in social media and IoT-generated data",
+        "B": "Limited storage space",
+        "C": "Decline of relational databases",
+        "D": "Introduction of SQL"
+      },
+      "correct_option": "A",
+      "correct_answer": "Increase in social media and IoT-generated data"
+    },
+    {
+      "id": 52,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Evolution of Big Data",
+      "section_question_number": 5,
+      "question": "Which of the following best describes the modern era of Big Data?",
+      "options": {
+        "A": "Use of traditional databases for storage",
+        "B": "Integration of Big Data with AI, IoT, and cloud computing",
+        "C": "Exclusively focusing on structured data",
+        "D": "Dependence on mainframe computers"
+      },
+      "correct_option": "B",
+      "correct_answer": "Integration of Big Data with AI, IoT, and cloud computing"
+    },
+    {
+      "id": 53,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Big Data Architecture",
+      "section_question_number": 1,
+      "question": "What is the main function of the Data Ingestion Layer in Big Data architecture?",
+      "options": {
+        "A": "Storing data in databases",
+        "B": "Importing and capturing data from sources",
+        "C": "Visualizing processed data",
+        "D": "Querying the stored data"
+      },
+      "correct_option": "B",
+      "correct_answer": "Importing and capturing data from sources"
+    },
+    {
+      "id": 54,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Big Data Architecture",
+      "section_question_number": 2,
+      "question": "Which of the following technologies is used for real-time data processing in Big Data architecture?",
+      "options": {
+        "A": "MapReduce",
+        "B": "Apache Spark",
+        "C": "HDFS",
+        "D": "MongoDB"
+      },
+      "correct_option": "B",
+      "correct_answer": "Apache Spark"
+    },
+    {
+      "id": 55,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Big Data Architecture",
+      "section_question_number": 3,
+      "question": "What type of storage is HDFS primarily designed for?",
+      "options": {
+        "A": "Centralized storage",
+        "B": "Distributed storage",
+        "C": "Local storage",
+        "D": "Cloud-based storage"
+      },
+      "correct_option": "B",
+      "correct_answer": "Distributed storage"
+    },
+    {
+      "id": 56,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Big Data Architecture",
+      "section_question_number": 4,
+      "question": "Which layer in Big Data architecture is responsible for analyzing and visualizing the data?",
+      "options": {
+        "A": "Data Ingestion Layer",
+        "B": "Data Processing Layer",
+        "C": "Data Analysis and Query Layer",
+        "D": "Data Storage Layer"
+      },
+      "correct_option": "C",
+      "correct_answer": "Data Analysis and Query Layer"
+    },
+    {
+      "id": 57,
+      "unit": "Unit 2: Introduction of Big Data",
+      "section": "Big Data Architecture",
+      "section_question_number": 5,
+      "question": "What is the main purpose of NoSQL databases in Big Data architecture?",
+      "options": {
+        "A": "Managing structured data only",
+        "B": "Handling unstructured and semi-structured data",
+        "C": "Real-time data visualization",
+        "D": "Reducing storage cost"
+      },
+      "correct_option": "B",
+      "correct_answer": "Handling unstructured and semi-structured data"
+    },
+    {
+      "id": 58,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 1,
+      "question": "What is the main purpose of Hadoop?",
+      "options": {
+        "A": "To manage relational databases",
+        "B": "To process and store large datasets in a distributed manner",
+        "C": "To develop web applications",
+        "D": "To optimize network bandwidth"
+      },
+      "correct_option": "B",
+      "correct_answer": "To process and store large datasets in a distributed manner"
+    },
+    {
+      "id": 59,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 2,
+      "question": "What is HDFS in Hadoop?",
+      "options": {
+        "A": "High Distributed File System",
+        "B": "Hadoop Data File System",
+        "C": "Hadoop Distributed File System",
+        "D": "Hadoop Disk File System"
+      },
+      "correct_option": "C",
+      "correct_answer": "Hadoop Distributed File System"
+    },
+    {
+      "id": 60,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 3,
+      "question": "Which of the following is NOT a component of Hadoop?",
+      "options": {
+        "A": "HDFS",
+        "B": "MapReduce",
+        "C": "SQL Server",
+        "D": "YARN"
+      },
+      "correct_option": "C",
+      "correct_answer": "SQL Server"
+    },
+    {
+      "id": 61,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 4,
+      "question": "What does YARN stand for?",
+      "options": {
+        "A": "Yet Another Resource Negotiator",
+        "B": "Your Advanced Resource Network",
+        "C": "Your Application Resource Network",
+        "D": "Yet Another Random Network"
+      },
+      "correct_option": "A",
+      "correct_answer": "Yet Another Resource Negotiator"
+    },
+    {
+      "id": 62,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 5,
+      "question": "What is the role of MapReduce in Hadoop?",
+      "options": {
+        "A": "To store data",
+        "B": "To manage resources",
+        "C": "To process data in parallel",
+        "D": "To schedule tasks"
+      },
+      "correct_option": "C",
+      "correct_answer": "To process data in parallel"
+    },
+    {
+      "id": 63,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 6,
+      "question": "How does Hadoop handle hardware failures?",
+      "options": {
+        "A": "By restarting the system",
+        "B": "By replicating data across multiple nodes",
+        "C": "By shutting down the cluster",
+        "D": "By using expensive hardware"
+      },
+      "correct_option": "B",
+      "correct_answer": "By replicating data across multiple nodes"
+    },
+    {
+      "id": 64,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 7,
+      "question": "Which programming language is primarily used for Hadoop?",
+      "options": {
+        "A": "Python",
+        "B": "Java",
+        "C": "C++",
+        "D": "PHP"
+      },
+      "correct_option": "B",
+      "correct_answer": "Java"
+    },
+    {
+      "id": 65,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 8,
+      "question": "What is the default replication factor in HDFS?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_option": "C",
+      "correct_answer": "3"
+    },
+    {
+      "id": 66,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 9,
+      "question": "Which tool in the Hadoop ecosystem is used for SQL-like queries?",
+      "options": {
+        "A": "Pig",
+        "B": "Hive",
+        "C": "Flume",
+        "D": "Sqoop"
+      },
+      "correct_option": "B",
+      "correct_answer": "Hive"
+    },
+    {
+      "id": 67,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MCQs on Apache Hadoop",
+      "section_question_number": 10,
+      "question": "What is the role of Zookeeper in the Hadoop ecosystem?",
+      "options": {
+        "A": "Storing unstructured data",
+        "B": "Managing and coordinating distributed applications",
+        "C": "Importing data into HDFS",
+        "D": "Performing ETL operations"
+      },
+      "correct_option": "B",
+      "correct_answer": "Managing and coordinating distributed applications"
+    },
+    {
+      "id": 68,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 1,
+      "question": "What is the primary function of HDFS in Hadoop?",
+      "options": {
+        "A": "To process data",
+        "B": "To store data in a distributed manner",
+        "C": "To query data",
+        "D": "To manage resources"
+      },
+      "correct_option": "B",
+      "correct_answer": "To store data in a distributed manner"
+    },
+    {
+      "id": 69,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 2,
+      "question": "What is the responsibility of the NameNode in HDFS?",
+      "options": {
+        "A": "Store data blocks",
+        "B": "Manage metadata and block locations",
+        "C": "Schedule jobs in the cluster",
+        "D": "Monitor resource usage"
+      },
+      "correct_option": "B",
+      "correct_answer": "Manage metadata and block locations"
+    },
+    {
+      "id": 70,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 3,
+      "question": "Which component is responsible for resource allocation in YARN?",
+      "options": {
+        "A": "DataNode",
+        "B": "ResourceManager",
+        "C": "NameNode",
+        "D": "NodeManager"
+      },
+      "correct_option": "B",
+      "correct_answer": "ResourceManager"
+    },
+    {
+      "id": 71,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 4,
+      "question": "What are the two phases of a MapReduce job?",
+      "options": {
+        "A": "Store and Process",
+        "B": "Map and Reduce",
+        "C": "Fetch and Aggregate",
+        "D": "Query and Execute"
+      },
+      "correct_option": "B",
+      "correct_answer": "Map and Reduce"
+    },
+    {
+      "id": 72,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 5,
+      "question": "Which tool in the Hadoop ecosystem is used for real-time data processing?",
+      "options": {
+        "A": "Sqoop",
+        "B": "Spark",
+        "C": "Pig",
+        "D": "Hive"
+      },
+      "correct_option": "B",
+      "correct_answer": "Spark"
+    },
+    {
+      "id": 73,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 6,
+      "question": "What is a typical HDFS block size used in modern Hadoop?",
+      "options": {
+        "A": "32MB",
+        "B": "64MB",
+        "C": "128MB",
+        "D": "256MB"
+      },
+      "correct_option": "C",
+      "correct_answer": "128MB",
+      "technical_note": "Reworded from \"default\" to \"typical\" because HDFS block size is configurable; Apache Hadoop documentation describes 128 MB as a typical block size."
+    },
+    {
+      "id": 74,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 7,
+      "question": "Which Hadoop ecosystem component is used for machine learning?",
+      "options": {
+        "A": "Flume",
+        "B": "Mahout",
+        "C": "Hive",
+        "D": "HBase"
+      },
+      "correct_option": "B",
+      "correct_answer": "Mahout"
+    },
+    {
+      "id": 75,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 8,
+      "question": "Which of the following tools is used for importing and exporting data in Hadoop?",
+      "options": {
+        "A": "Hive",
+        "B": "Pig",
+        "C": "Sqoop",
+        "D": "Flume"
+      },
+      "correct_option": "C",
+      "correct_answer": "Sqoop"
+    },
+    {
+      "id": 76,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 9,
+      "question": "In the Hadoop architecture, which node performs data storage tasks?",
+      "options": {
+        "A": "NameNode",
+        "B": "DataNode",
+        "C": "ResourceManager",
+        "D": "NodeManager"
+      },
+      "correct_option": "B",
+      "correct_answer": "DataNode"
+    },
+    {
+      "id": 77,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Architecture",
+      "section_question_number": 10,
+      "question": "What is the role of Zookeeper in the Hadoop ecosystem?",
+      "options": {
+        "A": "Data storage",
+        "B": "Log management",
+        "C": "Coordination and synchronization",
+        "D": "Machine learning"
+      },
+      "correct_option": "C",
+      "correct_answer": "Coordination and synchronization"
+    },
+    {
+      "id": 78,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 1,
+      "question": "Which Hadoop tool provides SQL-like querying capabilities?",
+      "options": {
+        "A": "Pig",
+        "B": "Hive",
+        "C": "Sqoop",
+        "D": "Oozie"
+      },
+      "correct_option": "B",
+      "correct_answer": "Hive"
+    },
+    {
+      "id": 79,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 2,
+      "question": "What is the purpose of HBase in the Hadoop ecosystem?",
+      "options": {
+        "A": "To process data in real-time",
+        "B": "To provide NoSQL database storage",
+        "C": "To collect log data",
+        "D": "To manage workflows"
+      },
+      "correct_option": "B",
+      "correct_answer": "To provide NoSQL database storage"
+    },
+    {
+      "id": 80,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 3,
+      "question": "Which component is used for data import/export between Hadoop and relational databases?",
+      "options": {
+        "A": "Flume",
+        "B": "Sqoop",
+        "C": "Spark",
+        "D": "Mahout"
+      },
+      "correct_option": "B",
+      "correct_answer": "Sqoop"
+    },
+    {
+      "id": 81,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 4,
+      "question": "What is the main use of Flume in the Hadoop ecosystem?",
+      "options": {
+        "A": "To manage workflows",
+        "B": "To process structured data",
+        "C": "To collect and move log data",
+        "D": "To provide SQL queries"
+      },
+      "correct_option": "C",
+      "correct_answer": "To collect and move log data"
+    },
+    {
+      "id": 82,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 5,
+      "question": "Which of the following is a workflow management tool in Hadoop?",
+      "options": {
+        "A": "Zookeeper",
+        "B": "Oozie",
+        "C": "Pig",
+        "D": "Hive"
+      },
+      "correct_option": "B",
+      "correct_answer": "Oozie"
+    },
+    {
+      "id": 83,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 6,
+      "question": "Which of the following is a key feature of Spark in the Hadoop ecosystem?",
+      "options": {
+        "A": "Data storage",
+        "B": "Batch processing",
+        "C": "In-memory data processing",
+        "D": "Real-time log collection"
+      },
+      "correct_option": "C",
+      "correct_answer": "In-memory data processing",
+      "technical_note": "Reworded because Spark is a distributed processing engine; in-memory processing/caching is an important capability rather than its whole primary function."
+    },
+    {
+      "id": 84,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 7,
+      "question": "Which tool is used for machine learning tasks in Hadoop?",
+      "options": {
+        "A": "Oozie",
+        "B": "Mahout",
+        "C": "Hive",
+        "D": "Sqoop"
+      },
+      "correct_option": "B",
+      "correct_answer": "Mahout"
+    },
+    {
+      "id": 85,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 8,
+      "question": "What does Zookeeper provide in the Hadoop ecosystem?",
+      "options": {
+        "A": "Data synchronization and coordination",
+        "B": "SQL-like querying",
+        "C": "Real-time data streaming",
+        "D": "Workflow scheduling"
+      },
+      "correct_option": "A",
+      "correct_answer": "Data synchronization and coordination"
+    },
+    {
+      "id": 86,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 9,
+      "question": "Which component handles the streaming of real-time data in Hadoop?",
+      "options": {
+        "A": "Kafka",
+        "B": "Pig",
+        "C": "Hive",
+        "D": "Spark"
+      },
+      "correct_option": "A",
+      "correct_answer": "Kafka"
+    },
+    {
+      "id": 87,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "Hadoop Ecosystem Components",
+      "section_question_number": 10,
+      "question": "Which tool in the Hadoop ecosystem supports large-scale graph processing?",
+      "options": {
+        "A": "Hive",
+        "B": "Spark",
+        "C": "HBase",
+        "D": "Flume"
+      },
+      "correct_option": "B",
+      "correct_answer": "Spark",
+      "technical_note": "Reworded to avoid subjective \"ideal\" language; Spark supports graph processing through its graph-processing capabilities."
+    },
+    {
+      "id": 88,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 1,
+      "question": "What is the main purpose of MapReduce?",
+      "options": {
+        "A": "To store large datasets",
+        "B": "To process large datasets in a distributed manner",
+        "C": "To query relational databases",
+        "D": "To synchronize distributed systems"
+      },
+      "correct_option": "B",
+      "correct_answer": "To process large datasets in a distributed manner"
+    },
+    {
+      "id": 89,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 2,
+      "question": "What does the Mapper in MapReduce do?",
+      "options": {
+        "A": "Aggregates intermediate results",
+        "B": "Processes input data to produce key-value pairs",
+        "C": "Sorts key-value pairs",
+        "D": "Stores final output"
+      },
+      "correct_option": "B",
+      "correct_answer": "Processes input data to produce key-value pairs"
+    },
+    {
+      "id": 90,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 3,
+      "question": "What is the role of the Reducer in MapReduce?",
+      "options": {
+        "A": "To split input data",
+        "B": "To store intermediate data",
+        "C": "To aggregate and summarize key-value pairs",
+        "D": "To manage resources"
+      },
+      "correct_option": "C",
+      "correct_answer": "To aggregate and summarize key-value pairs"
+    },
+    {
+      "id": 91,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 4,
+      "question": "What phase in MapReduce organizes key-value pairs by key?",
+      "options": {
+        "A": "Map phase",
+        "B": "Shuffle and Sort phase",
+        "C": "Reduce phase",
+        "D": "Input phase"
+      },
+      "correct_option": "B",
+      "correct_answer": "Shuffle and Sort phase"
+    },
+    {
+      "id": 92,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 5,
+      "question": "Which of the following is NOT a part of the MapReduce framework?",
+      "options": {
+        "A": "Mapper",
+        "B": "Reducer",
+        "C": "NameNode",
+        "D": "Combiner"
+      },
+      "correct_option": "C",
+      "correct_answer": "NameNode"
+    },
+    {
+      "id": 93,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 6,
+      "question": "What is the Combiner used for in MapReduce?",
+      "options": {
+        "A": "To split the input data",
+        "B": "To reduce the amount of data transferred to the Reducer",
+        "C": "To replicate data across nodes",
+        "D": "To sort intermediate data"
+      },
+      "correct_option": "B",
+      "correct_answer": "To reduce the amount of data transferred to the Reducer"
+    },
+    {
+      "id": 94,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 7,
+      "question": "Which of the following describes the output of the Map phase?",
+      "options": {
+        "A": "Key-value pairs organized by key",
+        "B": "Final aggregated results",
+        "C": "Raw input data",
+        "D": "Intermediate key-value pairs"
+      },
+      "correct_option": "D",
+      "correct_answer": "Intermediate key-value pairs"
+    },
+    {
+      "id": 95,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 8,
+      "question": "In MapReduce, what is the default number of Reducers?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "Depends on the cluster size"
+      },
+      "correct_option": "A",
+      "correct_answer": "1"
+    },
+    {
+      "id": 96,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 9,
+      "question": "What type of tasks can MapReduce efficiently handle?",
+      "options": {
+        "A": "Real-time data processing",
+        "B": "Small-scale dataset processing",
+        "C": "Batch processing of large-scale datasets",
+        "D": "Graphical user interface tasks"
+      },
+      "correct_option": "C",
+      "correct_answer": "Batch processing of large-scale datasets"
+    },
+    {
+      "id": 97,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "MapReduce Overview",
+      "section_question_number": 10,
+      "question": "Which Hadoop component provides resource management and scheduling support for MapReduce jobs?",
+      "options": {
+        "A": "YARN",
+        "B": "HDFS",
+        "C": "NameNode",
+        "D": "Hive"
+      },
+      "correct_option": "A",
+      "correct_answer": "YARN",
+      "technical_note": "Clarified the high-level YARN role; application-level task scheduling is coordinated by the MapReduce ApplicationMaster while YARN manages cluster resources."
+    },
+    {
+      "id": 98,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 1,
+      "question": "What is the primary function of HDFS?",
+      "options": {
+        "A": "To process data in real-time",
+        "B": "To store large datasets in a distributed manner",
+        "C": "To manage relational databases",
+        "D": "To schedule tasks in Hadoop"
+      },
+      "correct_option": "B",
+      "correct_answer": "To store large datasets in a distributed manner"
+    },
+    {
+      "id": 99,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 2,
+      "question": "Which component of HDFS manages metadata?",
+      "options": {
+        "A": "DataNode",
+        "B": "NameNode",
+        "C": "Secondary NameNode",
+        "D": "ResourceManager"
+      },
+      "correct_option": "B",
+      "correct_answer": "NameNode"
+    },
+    {
+      "id": 100,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 3,
+      "question": "What is the default block size in HDFS?",
+      "options": {
+        "A": "64MB",
+        "B": "128MB",
+        "C": "256MB",
+        "D": "512MB"
+      },
+      "correct_option": "B",
+      "correct_answer": "128MB"
+    },
+    {
+      "id": 101,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 4,
+      "question": "What does the Secondary NameNode do?",
+      "options": {
+        "A": "Replaces the NameNode in case of failure",
+        "B": "Stores actual data blocks",
+        "C": "Periodically merges and checkpoints metadata",
+        "D": "Manages task scheduling"
+      },
+      "correct_option": "C",
+      "correct_answer": "Periodically merges and checkpoints metadata"
+    },
+    {
+      "id": 102,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 5,
+      "question": "How does HDFS ensure fault tolerance?",
+      "options": {
+        "A": "By using expensive hardware",
+        "B": "By replicating data blocks across multiple nodes",
+        "C": "By compressing data",
+        "D": "By storing all data on a single node"
+      },
+      "correct_option": "B",
+      "correct_answer": "By replicating data blocks across multiple nodes"
+    },
+    {
+      "id": 103,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 6,
+      "question": "What is the default replication factor in HDFS?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_option": "C",
+      "correct_answer": "3"
+    },
+    {
+      "id": 104,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 7,
+      "question": "Which of the following is NOT a characteristic of HDFS?",
+      "options": {
+        "A": "Write Once, Read Many",
+        "B": "Real-time data updates",
+        "C": "Fault tolerance",
+        "D": "Distributed storage"
+      },
+      "correct_option": "B",
+      "correct_answer": "Real-time data updates"
+    },
+    {
+      "id": 105,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 8,
+      "question": "What happens if a DataNode fails in HDFS?",
+      "options": {
+        "A": "The system shuts down.",
+        "B": "Data is lost permanently.",
+        "C": "Data is retrieved from replicated blocks on other nodes.",
+        "D": "The NameNode fails."
+      },
+      "correct_option": "C",
+      "correct_answer": "Data is retrieved from replicated blocks on other nodes."
+    },
+    {
+      "id": 106,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "HDFS (Hadoop Distributed File System)",
+      "section_question_number": 9,
+      "question": "Which node in HDFS stores actual data?",
+      "options": {
+        "A": "NameNode",
+        "B": "DataNode",
+        "C": "Secondary NameNode",
+        "D": "ResourceManager"
+      },
+      "correct_option": "B",
+      "correct_answer": "DataNode"
+    },
+    {
+      "id": 107,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 1,
+      "question": "What is the primary function of YARN in Hadoop?",
+      "options": {
+        "A": "Data storage",
+        "B": "Resource management and task scheduling",
+        "C": "Query execution",
+        "D": "Metadata management"
+      },
+      "correct_option": "B",
+      "correct_answer": "Resource management and task scheduling"
+    },
+    {
+      "id": 108,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 2,
+      "question": "Which component of YARN manages resources on individual nodes?",
+      "options": {
+        "A": "ResourceManager",
+        "B": "NodeManager",
+        "C": "ApplicationMaster",
+        "D": "NameNode"
+      },
+      "correct_option": "B",
+      "correct_answer": "NodeManager"
+    },
+    {
+      "id": 109,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 3,
+      "question": "What is a container in YARN?",
+      "options": {
+        "A": "A storage unit for data blocks",
+        "B": "A unit of resource allocation for tasks",
+        "C": "A metadata storage component",
+        "D": "A backup for the ResourceManager"
+      },
+      "correct_option": "B",
+      "correct_answer": "A unit of resource allocation for tasks"
+    },
+    {
+      "id": 110,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 4,
+      "question": "What is the role of the ResourceManager in YARN?",
+      "options": {
+        "A": "To execute MapReduce jobs",
+        "B": "To manage resources across the cluster",
+        "C": "To store data blocks",
+        "D": "To monitor tasks on individual nodes"
+      },
+      "correct_option": "B",
+      "correct_answer": "To manage resources across the cluster"
+    },
+    {
+      "id": 111,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 5,
+      "question": "Which YARN component manages the lifecycle of an application?",
+      "options": {
+        "A": "NodeManager",
+        "B": "ApplicationMaster",
+        "C": "ResourceManager",
+        "D": "TaskTracker"
+      },
+      "correct_option": "B",
+      "correct_answer": "ApplicationMaster"
+    },
+    {
+      "id": 112,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 6,
+      "question": "What happens if the NodeManager fails?",
+      "options": {
+        "A": "The cluster shuts down.",
+        "B": "Tasks on the node are rescheduled on other nodes.",
+        "C": "The ResourceManager fails.",
+        "D": "All running applications stop."
+      },
+      "correct_option": "B",
+      "correct_answer": "Tasks on the node are rescheduled on other nodes."
+    },
+    {
+      "id": 113,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 7,
+      "question": "Which of the following is NOT a feature of YARN?",
+      "options": {
+        "A": "Fault tolerance",
+        "B": "Data replication",
+        "C": "Multi-tenancy",
+        "D": "Scalability"
+      },
+      "correct_option": "B",
+      "correct_answer": "Data replication"
+    },
+    {
+      "id": 114,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 8,
+      "question": "What does YARN allocate to applications for execution?",
+      "options": {
+        "A": "Data blocks",
+        "B": "Metadata",
+        "C": "Containers",
+        "D": "Files"
+      },
+      "correct_option": "C",
+      "correct_answer": "Containers"
+    },
+    {
+      "id": 115,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 9,
+      "question": "How does YARN improve resource utilization?",
+      "options": {
+        "A": "By pre-allocating fixed resources to tasks",
+        "B": "By dynamically allocating resources based on demand",
+        "C": "By shutting down idle nodes",
+        "D": "By duplicating tasks on multiple nodes"
+      },
+      "correct_option": "B",
+      "correct_answer": "By dynamically allocating resources based on demand"
+    },
+    {
+      "id": 116,
+      "unit": "Unit 3: Introduction to Hadoop",
+      "section": "YARN (Yet Another Resource Negotiator)",
+      "section_question_number": 10,
+      "question": "Which processing frameworks can run on YARN?",
+      "options": {
+        "A": "Only MapReduce",
+        "B": "Only Spark",
+        "C": "Any framework designed for distributed processing",
+        "D": "Only Hive and Pig"
+      },
+      "correct_option": "C",
+      "correct_answer": "Any framework designed for distributed processing"
+    },
+    {
+      "id": 117,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Types of Databases",
+      "section_question_number": 1,
+      "question": "Which database is based on a table structure of rows and columns?",
+      "options": {
+        "A": "NoSQL Database",
+        "B": "Relational Database",
+        "C": "Hierarchical Database",
+        "D": "Object-Oriented Database"
+      },
+      "correct_option": "B",
+      "correct_answer": "Relational Database"
+    },
+    {
+      "id": 118,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Types of Databases",
+      "section_question_number": 2,
+      "question": "MongoDB is an example of which type of database?",
+      "options": {
+        "A": "Relational Database",
+        "B": "Hierarchical Database",
+        "C": "NoSQL Database",
+        "D": "Network Database"
+      },
+      "correct_option": "C",
+      "correct_answer": "NoSQL Database"
+    },
+    {
+      "id": 119,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Types of Databases",
+      "section_question_number": 3,
+      "question": "Which type of database is best suited for handling relationships in social networks?",
+      "options": {
+        "A": "Hierarchical Database",
+        "B": "Graph Database",
+        "C": "Relational Database",
+        "D": "Object-Oriented Database"
+      },
+      "correct_option": "B",
+      "correct_answer": "Graph Database"
+    },
+    {
+      "id": 120,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Types of Databases",
+      "section_question_number": 4,
+      "question": "What is the primary feature of a distributed database?",
+      "options": {
+        "A": "Data stored in a tree structure",
+        "B": "Data stored in a centralized location",
+        "C": "Data distributed across multiple systems",
+        "D": "Data stored as objects"
+      },
+      "correct_option": "C",
+      "correct_answer": "Data distributed across multiple systems"
+    },
+    {
+      "id": 121,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Types of Databases",
+      "section_question_number": 5,
+      "question": "AWS RDS is an example of a:",
+      "options": {
+        "A": "Relational Database",
+        "B": "Cloud Database",
+        "C": "Hierarchical Database",
+        "D": "Network Database"
+      },
+      "correct_option": "B",
+      "correct_answer": "Cloud Database"
+    },
+    {
+      "id": 122,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Introduction to NoSQL Databases",
+      "section_question_number": 1,
+      "question": "Which of the following best describes NoSQL databases?",
+      "options": {
+        "A": "They store data only in relational tables.",
+        "B": "They provide support for unstructured or semi-structured data.",
+        "C": "They are always slower than relational databases.",
+        "D": "They cannot scale horizontally."
+      },
+      "correct_option": "B",
+      "correct_answer": "They provide support for unstructured or semi-structured data."
+    },
+    {
+      "id": 123,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Introduction to NoSQL Databases",
+      "section_question_number": 2,
+      "question": "Which type of NoSQL database is optimized for managing relationships between data?",
+      "options": {
+        "A": "Document Store",
+        "B": "Key-Value Store",
+        "C": "Graph Database",
+        "D": "Column-Family Store"
+      },
+      "correct_option": "C",
+      "correct_answer": "Graph Database"
+    },
+    {
+      "id": 124,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Introduction to NoSQL Databases",
+      "section_question_number": 3,
+      "question": "MongoDB is an example of which type of NoSQL database?",
+      "options": {
+        "A": "Key-Value Store",
+        "B": "Document Store",
+        "C": "Column-Family Store",
+        "D": "Graph Database"
+      },
+      "correct_option": "B",
+      "correct_answer": "Document Store"
+    },
+    {
+      "id": 125,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Introduction to NoSQL Databases",
+      "section_question_number": 4,
+      "question": "Which of the following is a feature of NoSQL databases?",
+      "options": {
+        "A": "Fixed schema",
+        "B": "Vertical scaling",
+        "C": "Support for distributed data",
+        "D": "Mandatory use of SQL"
+      },
+      "correct_option": "C",
+      "correct_answer": "Support for distributed data"
+    },
+    {
+      "id": 126,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Introduction to NoSQL Databases",
+      "section_question_number": 5,
+      "question": "Cassandra is an example of which type of NoSQL database?",
+      "options": {
+        "A": "Document Store",
+        "B": "Key-Value Store",
+        "C": "Graph Database",
+        "D": "Column-Family Store"
+      },
+      "correct_option": "D",
+      "correct_answer": "Column-Family Store"
+    },
+    {
+      "id": 127,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Need for NoSQL Databases",
+      "section_question_number": 1,
+      "question": "Why are NoSQL databases preferred for handling big data?",
+      "options": {
+        "A": "They use fixed schemas.",
+        "B": "They support structured data only.",
+        "C": "They can process large volumes of unstructured data.",
+        "D": "They cannot scale horizontally."
+      },
+      "correct_option": "C",
+      "correct_answer": "They can process large volumes of unstructured data."
+    },
+    {
+      "id": 128,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Need for NoSQL Databases",
+      "section_question_number": 2,
+      "question": "What makes NoSQL databases more flexible compared to relational databases?",
+      "options": {
+        "A": "Fixed table structures",
+        "B": "Schema-less data modeling",
+        "C": "Use of SQL for queries",
+        "D": "Vertical scalability"
+      },
+      "correct_option": "B",
+      "correct_answer": "Schema-less data modeling"
+    },
+    {
+      "id": 129,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Need for NoSQL Databases",
+      "section_question_number": 3,
+      "question": "What type of scalability is a key feature of NoSQL databases?",
+      "options": {
+        "A": "Vertical scalability",
+        "B": "Horizontal scalability",
+        "C": "Static scalability",
+        "D": "Single-node scalability"
+      },
+      "correct_option": "B",
+      "correct_answer": "Horizontal scalability"
+    },
+    {
+      "id": 130,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Need for NoSQL Databases",
+      "section_question_number": 4,
+      "question": "Which of the following is NOT a reason for using NoSQL databases?",
+      "options": {
+        "A": "Handling unstructured data",
+        "B": "Cost-effective scalability",
+        "C": "Fixed schema requirement",
+        "D": "Support for distributed systems"
+      },
+      "correct_option": "C",
+      "correct_answer": "Fixed schema requirement"
+    },
+    {
+      "id": 131,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Need for NoSQL Databases",
+      "section_question_number": 5,
+      "question": "For real-time applications requiring high-speed data access, which type of database is suitable?",
+      "options": {
+        "A": "Relational databases",
+        "B": "NoSQL databases",
+        "C": "File-based systems",
+        "D": "Hierarchical databases"
+      },
+      "correct_option": "B",
+      "correct_answer": "NoSQL databases"
+    },
+    {
+      "id": 132,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Advantages of NoSQL Databases",
+      "section_question_number": 1,
+      "question": "What is the main advantage of NoSQL databases in terms of scalability?",
+      "options": {
+        "A": "Vertical scaling",
+        "B": "Horizontal scaling",
+        "C": "Limited scaling",
+        "D": "No scaling"
+      },
+      "correct_option": "B",
+      "correct_answer": "Horizontal scaling"
+    },
+    {
+      "id": 133,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Advantages of NoSQL Databases",
+      "section_question_number": 2,
+      "question": "Which of the following data types can NoSQL databases handle?",
+      "options": {
+        "A": "Structured data only",
+        "B": "Unstructured data only",
+        "C": "Structured, semi-structured, and unstructured data",
+        "D": "Only tabular data"
+      },
+      "correct_option": "C",
+      "correct_answer": "Structured, semi-structured, and unstructured data"
+    },
+    {
+      "id": 134,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Advantages of NoSQL Databases",
+      "section_question_number": 3,
+      "question": "Why can some NoSQL databases be suitable for real-time applications?",
+      "options": {
+        "A": "They have a fixed schema.",
+        "B": "They are optimized for high-speed read and write operations.",
+        "C": "They lack support for distributed systems.",
+        "D": "They are always slower than relational databases."
+      },
+      "correct_option": "B",
+      "correct_answer": "They are optimized for high-speed read and write operations.",
+      "technical_note": "Reworded because performance characteristics vary by NoSQL database and workload."
+    },
+    {
+      "id": 135,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Advantages of NoSQL Databases",
+      "section_question_number": 4,
+      "question": "Which feature of NoSQL databases reduces the complexity of data retrieval?",
+      "options": {
+        "A": "Support for distributed systems",
+        "B": "No need for complex joins",
+        "C": "Use of fixed schemas",
+        "D": "Support for SQL queries only"
+      },
+      "correct_option": "B",
+      "correct_answer": "No need for complex joins"
+    },
+    {
+      "id": 136,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Advantages of NoSQL Databases",
+      "section_question_number": 5,
+      "question": "What makes NoSQL databases cost-effective?",
+      "options": {
+        "A": "Only works with structured data",
+        "B": "Requires expensive hardware",
+        "C": "Many are open-source and use commodity hardware",
+        "D": "Requires complex schema design"
+      },
+      "correct_option": "C",
+      "correct_answer": "Many are open-source and use commodity hardware"
+    },
+    {
+      "id": 137,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Advantages of NoSQL Databases",
+      "section_question_number": 6,
+      "question": "How do NoSQL databases handle schema changes?",
+      "options": {
+        "A": "Requires downtime to update the schema",
+        "B": "Schema changes are not supported",
+        "C": "Supports flexible schema changes without requiring a fixed schema upfront",
+        "D": "Requires fixed schema upfront"
+      },
+      "correct_option": "C",
+      "correct_answer": "Supports flexible schema changes without requiring a fixed schema upfront",
+      "technical_note": "Replaced the absolute claim \"Automatically adapts\" with the more accurate concept of flexible schema/schema evolution."
+    },
+    {
+      "id": 138,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 1,
+      "question": "Which type of database uses a predefined schema?",
+      "options": {
+        "A": "Relational Database",
+        "B": "NoSQL",
+        "C": "Both SQL and NoSQL",
+        "D": "Neither SQL nor NoSQL"
+      },
+      "correct_option": "A",
+      "correct_answer": "Relational Database",
+      "technical_note": "Corrected the answer category: SQL is a query language; the database type with a predefined schema is a relational database."
+    },
+    {
+      "id": 139,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 2,
+      "question": "What is a major advantage of NoSQL databases over SQL databases?",
+      "options": {
+        "A": "Strong support for joins",
+        "B": "Fixed schema",
+        "C": "Horizontal scalability",
+        "D": "Limited support for unstructured data"
+      },
+      "correct_option": "C",
+      "correct_answer": "Horizontal scalability"
+    },
+    {
+      "id": 140,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 3,
+      "question": "Which type of database is better suited for handling structured data?",
+      "options": {
+        "A": "Relational Database",
+        "B": "NoSQL",
+        "C": "Both SQL and NoSQL",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "correct_answer": "Relational Database",
+      "technical_note": "Corrected the answer category: structured/tabular data is classically associated with relational databases, while SQL is the query language used by them."
+    },
+    {
+      "id": 141,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 4,
+      "question": "Which of the following is an example of a NoSQL database?",
+      "options": {
+        "A": "MySQL",
+        "B": "PostgreSQL",
+        "C": "MongoDB",
+        "D": "Oracle"
+      },
+      "correct_option": "C",
+      "correct_answer": "MongoDB"
+    },
+    {
+      "id": 142,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 5,
+      "question": "What makes NoSQL databases more flexible than SQL databases?",
+      "options": {
+        "A": "Predefined schema",
+        "B": "Schema-less design",
+        "C": "Complex relationships",
+        "D": "Dependence on SQL"
+      },
+      "correct_option": "B",
+      "correct_answer": "Schema-less design"
+    },
+    {
+      "id": 143,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 6,
+      "question": "SQL databases are typically scaled by:",
+      "options": {
+        "A": "Adding more servers (horizontal scaling)",
+        "B": "Adding more resources to the same server (vertical scaling)",
+        "C": "Both horizontal and vertical scaling equally",
+        "D": "Neither horizontal nor vertical scaling"
+      },
+      "correct_option": "B",
+      "correct_answer": "Adding more resources to the same server (vertical scaling)"
+    },
+    {
+      "id": 144,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 7,
+      "question": "Which type of database is ideal for applications with rapidly changing data models?",
+      "options": {
+        "A": "SQL",
+        "B": "NoSQL",
+        "C": "Both SQL and NoSQL",
+        "D": "None of the above"
+      },
+      "correct_option": "B",
+      "correct_answer": "NoSQL"
+    },
+    {
+      "id": 145,
+      "unit": "Unit 4: Advance Database System",
+      "section": "SQL vs NoSQL Databases",
+      "section_question_number": 8,
+      "question": "Which query language is used by SQL databases?",
+      "options": {
+        "A": "Structured Query Language (SQL)",
+        "B": "JSON Query Language (JQL)",
+        "C": "NoSQL Query Language",
+        "D": "Custom APIs"
+      },
+      "correct_option": "A",
+      "correct_answer": "Structured Query Language (SQL)"
+    },
+    {
+      "id": 146,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 1,
+      "question": "Which type of NoSQL database stores data in key-value pairs?",
+      "options": {
+        "A": "Document Store",
+        "B": "Column-Family Store",
+        "C": "Key-Value Store",
+        "D": "Graph Database"
+      },
+      "correct_option": "C",
+      "correct_answer": "Key-Value Store"
+    },
+    {
+      "id": 147,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 2,
+      "question": "MongoDB is an example of which type of NoSQL database?",
+      "options": {
+        "A": "Document Store",
+        "B": "Key-Value Store",
+        "C": "Column-Family Store",
+        "D": "Graph Database"
+      },
+      "correct_option": "A",
+      "correct_answer": "Document Store"
+    },
+    {
+      "id": 148,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 3,
+      "question": "Which type of NoSQL database is optimized for managing relationships between entities?",
+      "options": {
+        "A": "Document Store",
+        "B": "Graph Database",
+        "C": "Column-Family Store",
+        "D": "Key-Value Store"
+      },
+      "correct_option": "B",
+      "correct_answer": "Graph Database"
+    },
+    {
+      "id": 149,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 4,
+      "question": "Which NoSQL database type can be suitable for large-scale analytics and certain time-series workloads?",
+      "options": {
+        "A": "Key-Value Store",
+        "B": "Column-Family Store",
+        "C": "Graph Database",
+        "D": "Document Store"
+      },
+      "correct_option": "B",
+      "correct_answer": "Column-Family Store",
+      "technical_note": "Reworded because specialized time-series databases also exist; column-family stores can be suitable for certain large-scale workloads but are not universally the single best choice."
+    },
+    {
+      "id": 150,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 5,
+      "question": "Redis is an example of which type of NoSQL database?",
+      "options": {
+        "A": "Document Store",
+        "B": "Key-Value Store",
+        "C": "Column-Family Store",
+        "D": "Graph Database"
+      },
+      "correct_option": "B",
+      "correct_answer": "Key-Value Store"
+    },
+    {
+      "id": 151,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 6,
+      "question": "Which type of NoSQL database is most suitable for storing hierarchical data in JSON format?",
+      "options": {
+        "A": "Document Store",
+        "B": "Column-Family Store",
+        "C": "Key-Value Store",
+        "D": "Graph Database"
+      },
+      "correct_option": "A",
+      "correct_answer": "Document Store"
+    },
+    {
+      "id": 152,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 7,
+      "question": "Which of the following NoSQL databases is a graph database?",
+      "options": {
+        "A": "Cassandra",
+        "B": "Neo4j",
+        "C": "MongoDB",
+        "D": "Redis"
+      },
+      "correct_option": "B",
+      "correct_answer": "Neo4j"
+    },
+    {
+      "id": 153,
+      "unit": "Unit 4: Advance Database System",
+      "section": "Different Types of NoSQL Databases",
+      "section_question_number": 8,
+      "question": "Which NoSQL database type is best for storing large-scale tabular data?",
+      "options": {
+        "A": "Document Store",
+        "B": "Column-Family Store",
+        "C": "Key-Value Store",
+        "D": "Graph Database"
+      },
+      "correct_option": "B",
+      "correct_answer": "Column-Family Store"
+    },
+    {
+      "id": 154,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Data Analytics - Introduction",
+      "section_question_number": 0,
+      "question": "What is the primary goal of data analytics?",
+      "options": {
+        "A": "To store large amounts of data",
+        "B": "To create complex algorithms",
+        "C": "To extract valuable insights from data",
+        "D": "To visualize data in graphs and charts"
+      },
+      "correct_option": "C",
+      "correct_answer": "To extract valuable insights from data"
+    },
+    {
+      "id": 155,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Data Analytics - Introduction",
+      "section_question_number": 1,
+      "question": "Which of the following is a key step in the data analytics process?",
+      "options": {
+        "A": "Data collection",
+        "B": "Data visualization",
+        "C": "Data cleaning",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 156,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Data Analytics - Introduction",
+      "section_question_number": 2,
+      "question": "What type of analysis is used to make predictions based on historical data?",
+      "options": {
+        "A": "Descriptive analysis",
+        "B": "Diagnostic analysis",
+        "C": "Predictive analysis",
+        "D": "Prescriptive analysis"
+      },
+      "correct_option": "C",
+      "correct_answer": "Predictive analysis"
+    },
+    {
+      "id": 157,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Data Analytics - Introduction",
+      "section_question_number": 3,
+      "question": "Which of the following tools is commonly used for data visualization?",
+      "options": {
+        "A": "Excel",
+        "B": "Power BI",
+        "C": "Tableau",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 158,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Data Analytics - Introduction",
+      "section_question_number": 4,
+      "question": "Which of these is a type of unstructured data?",
+      "options": {
+        "A": "A database table",
+        "B": "A text document",
+        "C": "A CSV file",
+        "D": "A spreadsheet"
+      },
+      "correct_option": "B",
+      "correct_answer": "A text document"
+    },
+    {
+      "id": 159,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Data Analytics - Introduction",
+      "section_question_number": 5,
+      "question": "What is the purpose of data cleaning in the analytics process?",
+      "options": {
+        "A": "To ensure data is accurate and consistent",
+        "B": "To increase the volume of data",
+        "C": "To analyze the data visually",
+        "D": "To create new data"
+      },
+      "correct_option": "A",
+      "correct_answer": "To ensure data is accurate and consistent"
+    },
+    {
+      "id": 160,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Data Analytics - Introduction",
+      "section_question_number": 6,
+      "question": "How can data analytics be used in sports?",
+      "options": {
+        "A": "To improve team performance and player health",
+        "B": "To reduce stadium maintenance costs",
+        "C": "To increase ticket sales",
+        "D": "To decide on player salaries"
+      },
+      "correct_option": "A",
+      "correct_answer": "To improve team performance and player health"
+    },
+    {
+      "id": 161,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Stages of the Data Analytics Life Cycle",
+      "section_question_number": 1,
+      "question": "What is the first step in the Data Analytics Life Cycle?",
+      "options": {
+        "A": "Data Collection",
+        "B": "Problem Definition",
+        "C": "Model Building",
+        "D": "Data Cleaning and Preprocessing"
+      },
+      "correct_option": "B",
+      "correct_answer": "Problem Definition"
+    },
+    {
+      "id": 162,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Stages of the Data Analytics Life Cycle",
+      "section_question_number": 2,
+      "question": "In which stage of the Data Analytics Life Cycle is data cleaned and transformed for analysis?",
+      "options": {
+        "A": "Model Evaluation",
+        "B": "Exploratory Data Analysis",
+        "C": "Data Collection",
+        "D": "Data Cleaning and Preprocessing"
+      },
+      "correct_option": "D",
+      "correct_answer": "Data Cleaning and Preprocessing"
+    },
+    {
+      "id": 163,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Stages of the Data Analytics Life Cycle",
+      "section_question_number": 3,
+      "question": "Which of the following is the primary goal of Exploratory Data Analysis (EDA)?",
+      "options": {
+        "A": "To collect data from external sources",
+        "B": "To build a predictive model",
+        "C": "To visualize and summarize the data to find patterns and insights",
+        "D": "To deploy the model into production"
+      },
+      "correct_option": "C",
+      "correct_answer": "To visualize and summarize the data to find patterns and insights"
+    },
+    {
+      "id": 164,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Stages of the Data Analytics Life Cycle",
+      "section_question_number": 4,
+      "question": "At which stage of the Data Analytics Life Cycle is the model's performance evaluated?",
+      "options": {
+        "A": "Data Collection",
+        "B": "Model Building",
+        "C": "Model Evaluation",
+        "D": "Problem Definition"
+      },
+      "correct_option": "C",
+      "correct_answer": "Model Evaluation"
+    },
+    {
+      "id": 165,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Stages of the Data Analytics Life Cycle",
+      "section_question_number": 5,
+      "question": "Which of the following describes the deployment and monitoring stage of the Data Analytics Life Cycle?",
+      "options": {
+        "A": "Applying models to historical data",
+        "B": "Collecting and cleaning data",
+        "C": "Putting the model into use and tracking its performance",
+        "D": "Visualizing the data"
+      },
+      "correct_option": "C",
+      "correct_answer": "Putting the model into use and tracking its performance"
+    },
+    {
+      "id": 166,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Stages of the Data Analytics Life Cycle",
+      "section_question_number": 6,
+      "question": "What is the purpose of the \"Problem Definition\" stage in the Data Analytics Life Cycle?",
+      "options": {
+        "A": "To collect data from different sources",
+        "B": "To identify the specific questions to answer and goals to achieve",
+        "C": "To build a predictive model",
+        "D": "To evaluate the model's accuracy"
+      },
+      "correct_option": "B",
+      "correct_answer": "To identify the specific questions to answer and goals to achieve"
+    },
+    {
+      "id": 167,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Types of Analytics",
+      "section_question_number": 1,
+      "question": "Which type of analytics answers the question, \"What happened?\"",
+      "options": {
+        "A": "Predictive Analytics",
+        "B": "Prescriptive Analytics",
+        "C": "Descriptive Analytics",
+        "D": "Cognitive Analytics"
+      },
+      "correct_option": "C",
+      "correct_answer": "Descriptive Analytics"
+    },
+    {
+      "id": 168,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Types of Analytics",
+      "section_question_number": 2,
+      "question": "What is the primary goal of diagnostic analytics?",
+      "options": {
+        "A": "To summarize past events",
+        "B": "To predict future outcomes",
+        "C": "To understand why something happened",
+        "D": "To recommend the best course of action"
+      },
+      "correct_option": "C",
+      "correct_answer": "To understand why something happened"
+    },
+    {
+      "id": 169,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Types of Analytics",
+      "section_question_number": 3,
+      "question": "Which type of analytics is used to predict future outcomes based on historical data?",
+      "options": {
+        "A": "Prescriptive Analytics",
+        "B": "Cognitive Analytics",
+        "C": "Predictive Analytics",
+        "D": "Descriptive Analytics"
+      },
+      "correct_option": "C",
+      "correct_answer": "Predictive Analytics"
+    },
+    {
+      "id": 170,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Types of Analytics",
+      "section_question_number": 4,
+      "question": "Which of the following is a feature of prescriptive analytics?",
+      "options": {
+        "A": "It predicts future trends based on past data.",
+        "B": "It answers why something occurred in the past.",
+        "C": "It recommends the best course of action to optimize outcomes.",
+        "D": "It visualizes and summarizes historical data."
+      },
+      "correct_option": "C",
+      "correct_answer": "It recommends the best course of action to optimize outcomes."
+    },
+    {
+      "id": 171,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Types of Analytics",
+      "section_question_number": 5,
+      "question": "Which type of analytics involves using AI to simulate human thought processes?",
+      "options": {
+        "A": "Predictive Analytics",
+        "B": "Descriptive Analytics",
+        "C": "Cognitive Analytics",
+        "D": "Diagnostic Analytics"
+      },
+      "correct_option": "C",
+      "correct_answer": "Cognitive Analytics"
+    },
+    {
+      "id": 172,
+      "unit": "Unit 5: Data Analytics",
+      "section": "Types of Analytics",
+      "section_question_number": 6,
+      "question": "What is the key difference between descriptive and diagnostic analytics?",
+      "options": {
+        "A": "Descriptive analytics focuses on predicting future events, while diagnostic analytics focuses on past events.",
+        "B": "Descriptive analytics summarizes historical data, while diagnostic analytics explores the reasons behind past events.",
+        "C": "Descriptive analytics makes recommendations, while diagnostic analytics predicts outcomes.",
+        "D": "Descriptive analytics uses AI, while diagnostic analytics does not."
+      },
+      "correct_option": "B",
+      "correct_answer": "Descriptive analytics summarizes historical data, while diagnostic analytics explores the reasons behind past events."
+    }
+  ],
+  "validation": {
+    "question_count": 172,
+    "expected_question_count": 172,
+    "count_verified": true,
+    "all_have_4_options": true,
+    "all_have_valid_correct_option": true,
+    "unique_global_ids": true
+  }
+}
